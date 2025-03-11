@@ -1,0 +1,56 @@
+using System;
+using System.Linq;
+
+public class Program
+{
+    public int[] FindStudentsRank(int[,] stdMarks)
+    {
+        int numberOfStudents = stdMarks.GetLength(0);
+        int[] totalMarks = new int[numberOfStudents];
+        int[] ranks = new int[numberOfStudents];
+
+        for (int i = 0; i < numberOfStudents; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                totalMarks[i] += stdMarks[i, j];
+            }
+        }
+
+        var sortedMarks = totalMarks.Select((marks, index) => new { Marks = marks, Index = index })
+                                    .OrderByDescending(x => x.Marks)
+                                    .ToArray();
+
+        for (int rank = 0; rank < sortedMarks.Length; rank++)
+        {
+            ranks[sortedMarks[rank].Index] = rank + 1;
+        }
+
+        return ranks;
+    }
+
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter the number of students");
+        int numberOfStudents = int.Parse(Console.ReadLine());
+
+        int[,] stdMarks = new int[numberOfStudents, 5];
+
+        for (int i = 0; i < numberOfStudents; i++)
+        {
+            Console.WriteLine($"Enter marks for Student {i + 1}");
+            for (int j = 0; j < 5; j++)
+            {
+                stdMarks[i, j] = int.Parse(Console.ReadLine());
+            }
+        }
+
+        Program program = new Program();
+        int[] ranks = program.FindStudentsRank(stdMarks);
+
+        for (int i = 0; i < ranks.Length; i++)
+        {
+            Console.WriteLine($"Rank of student {i + 1} is {ranks[i]}");
+        }
+    }
+}

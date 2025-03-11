@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "OverloadOverRidden/1.0.0": {
+        "runtime": {
+          "OverloadOverRidden.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OverloadOverRidden/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

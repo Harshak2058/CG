@@ -1,0 +1,75 @@
+using System;
+namespace Demo {
+   class MyApplication {
+      public static void Main() {
+         int n = 5, a = 0;
+         for (int i = 1; i <= n; i++) {
+            if (n % i == 0) {
+               a++;
+            }
+         }
+         if (a == 2) {
+            Console.WriteLine("{0} is a Prime Number", n);
+         } else {
+            Console.WriteLine("Not a Prime Number");
+         }
+         Console.ReadLine();
+      }
+   }
+}
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("enter 1st num");
+        int num1 = int.Parse(Console.ReadLine());
+        Console.WriteLine("enter 2nd num");
+        int num2 = int.Parse(Console.ReadLine());
+        
+        Console.WriteLine("sum of num1 and num2 is: "+num1 + num2);
+    }
+}
+--
+using System;
+   class primeNum {
+      public static void Main() {
+         int n = 5, a = 0;
+         for (int i = 1; i <= n; i++) {
+            if (n % i == 0) {
+               a++;
+            }
+         }
+         if (a == 2) {
+            Console.WriteLine(" is a Prime Number", n);
+         } else {
+            Console.WriteLine("Not a Prime Number");
+         }
+         Console.ReadLine();
+      }
+   }
+====
+#include <iostream>
+using namespace std;
+
+int main() {
+    int arr[] = {10, 20, 4, 45, 99};
+    int n = sizeof(arr) / sizeof(arr[0]);
+
+    int max = arr[0], secondMax = -1;
+
+    for (int i = 1; i < n; i++) {
+        if (arr[i] > max) {
+            secondMax = max;
+            max = arr[i];
+        } else if (arr[i] > secondMax && arr[i] != max) {
+            secondMax = arr[i];
+        }
+    }
+
+    cout << "The second maximum element is: " << secondMax << endl;
+    return 0;
+}
+====

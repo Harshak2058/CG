@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\PractiseCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\PractiseCollections.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\PractiseCollections.AssemblyInfo.cs
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\PractiseCollections.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\PractiseCollections\bin\Debug\net9.0\PractiseCollections.exe
+E:\CAPGEMINI PREP\PractiseCollections\bin\Debug\net9.0\PractiseCollections.deps.json
+E:\CAPGEMINI PREP\PractiseCollections\bin\Debug\net9.0\PractiseCollections.runtimeconfig.json
+E:\CAPGEMINI PREP\PractiseCollections\bin\Debug\net9.0\PractiseCollections.dll
+E:\CAPGEMINI PREP\PractiseCollections\bin\Debug\net9.0\PractiseCollections.pdb
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\PractiseCollections.dll
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\refint\PractiseCollections.dll
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\PractiseCollections.pdb
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\PractiseCollections.genruntimeconfig.cache
+E:\CAPGEMINI PREP\PractiseCollections\obj\Debug\net9.0\ref\PractiseCollections.dll

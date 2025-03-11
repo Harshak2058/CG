@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\TotalPrice_PolymorphismRepractise.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\TotalPrice_PolymorphismRepractise.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\TotalPrice_PolymorphismRepractise.AssemblyInfo.cs
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\TotalPrice_PolymorphismRepractise.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\bin\Debug\net9.0\TotalPrice_PolymorphismRepractise.exe
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\bin\Debug\net9.0\TotalPrice_PolymorphismRepractise.deps.json
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\bin\Debug\net9.0\TotalPrice_PolymorphismRepractise.runtimeconfig.json
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\bin\Debug\net9.0\TotalPrice_PolymorphismRepractise.dll
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\bin\Debug\net9.0\TotalPrice_PolymorphismRepractise.pdb
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\TotalPrice_PolymorphismRepractise.dll
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\refint\TotalPrice_PolymorphismRepractise.dll
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\TotalPrice_PolymorphismRepractise.pdb
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\TotalPrice_PolymorphismRepractise.genruntimeconfig.cache
+e:\CAPGEMINI PREP\TotalPrice_PolymorphismRepractise\obj\Debug\net9.0\ref\TotalPrice_PolymorphismRepractise.dll

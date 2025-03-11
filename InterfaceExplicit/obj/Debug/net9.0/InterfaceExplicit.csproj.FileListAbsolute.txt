@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\InterfaceExplicit\bin\Debug\net9.0\InterfaceExplicit.exe
+E:\CAPGEMINI PREP\InterfaceExplicit\bin\Debug\net9.0\InterfaceExplicit.deps.json
+E:\CAPGEMINI PREP\InterfaceExplicit\bin\Debug\net9.0\InterfaceExplicit.runtimeconfig.json
+E:\CAPGEMINI PREP\InterfaceExplicit\bin\Debug\net9.0\InterfaceExplicit.dll
+E:\CAPGEMINI PREP\InterfaceExplicit\bin\Debug\net9.0\InterfaceExplicit.pdb
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\InterfaceExplicit.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\InterfaceExplicit.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\InterfaceExplicit.AssemblyInfo.cs
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\InterfaceExplicit.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\InterfaceExplicit.dll
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\refint\InterfaceExplicit.dll
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\InterfaceExplicit.pdb
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\InterfaceExplicit.genruntimeconfig.cache
+E:\CAPGEMINI PREP\InterfaceExplicit\obj\Debug\net9.0\ref\InterfaceExplicit.dll

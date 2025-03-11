@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\ObjectInitializer_CollectionInitializer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\ObjectInitializer_CollectionInitializer.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\ObjectInitializer_CollectionInitializer.AssemblyInfo.cs
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\ObjectInitializer_CollectionInitializer.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\bin\Debug\net9.0\ObjectInitializer_CollectionInitializer.exe
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\bin\Debug\net9.0\ObjectInitializer_CollectionInitializer.deps.json
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\bin\Debug\net9.0\ObjectInitializer_CollectionInitializer.runtimeconfig.json
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\bin\Debug\net9.0\ObjectInitializer_CollectionInitializer.dll
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\bin\Debug\net9.0\ObjectInitializer_CollectionInitializer.pdb
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\ObjectInitializer_CollectionInitializer.dll
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\refint\ObjectInitializer_CollectionInitializer.dll
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\ObjectInitializer_CollectionInitializer.pdb
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\ObjectInitializer_CollectionInitializer.genruntimeconfig.cache
+E:\CAPGEMINI PREP\ObjectInitializer_CollectionInitializer\obj\Debug\net9.0\ref\ObjectInitializer_CollectionInitializer.dll

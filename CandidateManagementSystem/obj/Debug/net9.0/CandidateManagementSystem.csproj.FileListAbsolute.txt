@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\CandidateManagementSystem\bin\Debug\net9.0\CandidateManagementSystem.exe
+E:\CAPGEMINI PREP\CandidateManagementSystem\bin\Debug\net9.0\CandidateManagementSystem.deps.json
+E:\CAPGEMINI PREP\CandidateManagementSystem\bin\Debug\net9.0\CandidateManagementSystem.runtimeconfig.json
+E:\CAPGEMINI PREP\CandidateManagementSystem\bin\Debug\net9.0\CandidateManagementSystem.dll
+E:\CAPGEMINI PREP\CandidateManagementSystem\bin\Debug\net9.0\CandidateManagementSystem.pdb
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\CandidateManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\CandidateManagementSystem.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\CandidateManagementSystem.AssemblyInfo.cs
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\CandidateManagementSystem.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\CandidateManagementSystem.dll
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\refint\CandidateManagementSystem.dll
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\CandidateManagementSystem.pdb
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\CandidateManagementSystem.genruntimeconfig.cache
+E:\CAPGEMINI PREP\CandidateManagementSystem\obj\Debug\net9.0\ref\CandidateManagementSystem.dll

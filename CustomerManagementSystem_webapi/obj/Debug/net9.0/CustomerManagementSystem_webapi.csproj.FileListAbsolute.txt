@@ -1,0 +1,7 @@
+e:\CAPGEMINI PREP\CustomerManagementSystem_webapi\obj\Debug\net9.0\CustomerManagementSystem_webapi.csproj.AssemblyReference.cache
+e:\CAPGEMINI PREP\CustomerManagementSystem_webapi\obj\Debug\net9.0\CustomerManagementSystem_webapi.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\CustomerManagementSystem_webapi\obj\Debug\net9.0\CustomerManagementSystem_webapi.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\CustomerManagementSystem_webapi\obj\Debug\net9.0\CustomerManagementSystem_webapi.AssemblyInfo.cs
+e:\CAPGEMINI PREP\CustomerManagementSystem_webapi\obj\Debug\net9.0\CustomerManagementSystem_webapi.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\CustomerManagementSystem_webapi\obj\Debug\net9.0\CustomerManagementSystem_webapi.MvcApplicationPartsAssemblyInfo.cs
+e:\CAPGEMINI PREP\CustomerManagementSystem_webapi\obj\Debug\net9.0\CustomerManagementSystem_webapi.MvcApplicationPartsAssemblyInfo.cache

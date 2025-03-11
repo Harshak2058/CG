@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\InterfaceImplicit\bin\Debug\net9.0\InterfaceImplicit.exe
+E:\CAPGEMINI PREP\InterfaceImplicit\bin\Debug\net9.0\InterfaceImplicit.deps.json
+E:\CAPGEMINI PREP\InterfaceImplicit\bin\Debug\net9.0\InterfaceImplicit.runtimeconfig.json
+E:\CAPGEMINI PREP\InterfaceImplicit\bin\Debug\net9.0\InterfaceImplicit.dll
+E:\CAPGEMINI PREP\InterfaceImplicit\bin\Debug\net9.0\InterfaceImplicit.pdb
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\InterfaceImplicit.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\InterfaceImplicit.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\InterfaceImplicit.AssemblyInfo.cs
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\InterfaceImplicit.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\InterfaceImplicit.dll
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\refint\InterfaceImplicit.dll
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\InterfaceImplicit.pdb
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\InterfaceImplicit.genruntimeconfig.cache
+E:\CAPGEMINI PREP\InterfaceImplicit\obj\Debug\net9.0\ref\InterfaceImplicit.dll

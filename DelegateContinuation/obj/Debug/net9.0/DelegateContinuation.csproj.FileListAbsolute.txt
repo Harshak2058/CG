@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\DelegateContinuation.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\DelegateContinuation.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\DelegateContinuation.AssemblyInfo.cs
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\DelegateContinuation.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\DelegateContinuation\bin\Debug\net9.0\DelegateContinuation.exe
+E:\CAPGEMINI PREP\DelegateContinuation\bin\Debug\net9.0\DelegateContinuation.deps.json
+E:\CAPGEMINI PREP\DelegateContinuation\bin\Debug\net9.0\DelegateContinuation.runtimeconfig.json
+E:\CAPGEMINI PREP\DelegateContinuation\bin\Debug\net9.0\DelegateContinuation.dll
+E:\CAPGEMINI PREP\DelegateContinuation\bin\Debug\net9.0\DelegateContinuation.pdb
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\DelegateContinuation.dll
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\refint\DelegateContinuation.dll
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\DelegateContinuation.pdb
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\DelegateContinuation.genruntimeconfig.cache
+E:\CAPGEMINI PREP\DelegateContinuation\obj\Debug\net9.0\ref\DelegateContinuation.dll

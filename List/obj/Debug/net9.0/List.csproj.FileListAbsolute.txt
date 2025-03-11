@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\List\bin\Debug\net9.0\List.exe
+E:\CAPGEMINI PREP\List\bin\Debug\net9.0\List.deps.json
+E:\CAPGEMINI PREP\List\bin\Debug\net9.0\List.runtimeconfig.json
+E:\CAPGEMINI PREP\List\bin\Debug\net9.0\List.dll
+E:\CAPGEMINI PREP\List\bin\Debug\net9.0\List.pdb
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\List.dll
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\refint\List.dll
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\List.pdb
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+E:\CAPGEMINI PREP\List\obj\Debug\net9.0\ref\List.dll

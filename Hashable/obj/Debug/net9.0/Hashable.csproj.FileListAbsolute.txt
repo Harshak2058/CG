@@ -1,0 +1,4 @@
+E:\CAPGEMINI PREP\Hashable\obj\Debug\net9.0\Hashable.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Hashable\obj\Debug\net9.0\Hashable.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Hashable\obj\Debug\net9.0\Hashable.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Hashable\obj\Debug\net9.0\Hashable.csproj.CoreCompileInputs.cache

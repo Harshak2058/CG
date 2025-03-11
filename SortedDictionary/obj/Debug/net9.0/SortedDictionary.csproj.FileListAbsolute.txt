@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\SortedDictionary.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\SortedDictionary.AssemblyInfo.cs
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\SortedDictionary.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\SortedDictionary\bin\Debug\net9.0\SortedDictionary.exe
+E:\CAPGEMINI PREP\SortedDictionary\bin\Debug\net9.0\SortedDictionary.deps.json
+E:\CAPGEMINI PREP\SortedDictionary\bin\Debug\net9.0\SortedDictionary.runtimeconfig.json
+E:\CAPGEMINI PREP\SortedDictionary\bin\Debug\net9.0\SortedDictionary.dll
+E:\CAPGEMINI PREP\SortedDictionary\bin\Debug\net9.0\SortedDictionary.pdb
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\SortedDictionary.dll
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\refint\SortedDictionary.dll
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\SortedDictionary.pdb
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\SortedDictionary.genruntimeconfig.cache
+E:\CAPGEMINI PREP\SortedDictionary\obj\Debug\net9.0\ref\SortedDictionary.dll

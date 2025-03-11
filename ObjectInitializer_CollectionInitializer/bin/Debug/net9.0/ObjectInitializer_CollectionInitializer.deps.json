@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ObjectInitializer_CollectionInitializer/1.0.0": {
+        "runtime": {
+          "ObjectInitializer_CollectionInitializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectInitializer_CollectionInitializer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

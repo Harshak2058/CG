@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\LambdaExpProblem\bin\Debug\net9.0\LambdaExpProblem.exe
+E:\CAPGEMINI PREP\LambdaExpProblem\bin\Debug\net9.0\LambdaExpProblem.deps.json
+E:\CAPGEMINI PREP\LambdaExpProblem\bin\Debug\net9.0\LambdaExpProblem.runtimeconfig.json
+E:\CAPGEMINI PREP\LambdaExpProblem\bin\Debug\net9.0\LambdaExpProblem.dll
+E:\CAPGEMINI PREP\LambdaExpProblem\bin\Debug\net9.0\LambdaExpProblem.pdb
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\LambdaExpProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\LambdaExpProblem.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\LambdaExpProblem.AssemblyInfo.cs
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\LambdaExpProblem.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\LambdaExpProblem.dll
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\refint\LambdaExpProblem.dll
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\LambdaExpProblem.pdb
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\LambdaExpProblem.genruntimeconfig.cache
+E:\CAPGEMINI PREP\LambdaExpProblem\obj\Debug\net9.0\ref\LambdaExpProblem.dll

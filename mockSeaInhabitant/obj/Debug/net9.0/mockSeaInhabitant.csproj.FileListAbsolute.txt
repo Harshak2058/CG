@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\mockSeaInhabitant.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\mockSeaInhabitant.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\mockSeaInhabitant.AssemblyInfo.cs
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\mockSeaInhabitant.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\mockSeaInhabitant\bin\Debug\net9.0\mockSeaInhabitant.exe
+e:\CAPGEMINI PREP\mockSeaInhabitant\bin\Debug\net9.0\mockSeaInhabitant.deps.json
+e:\CAPGEMINI PREP\mockSeaInhabitant\bin\Debug\net9.0\mockSeaInhabitant.runtimeconfig.json
+e:\CAPGEMINI PREP\mockSeaInhabitant\bin\Debug\net9.0\mockSeaInhabitant.dll
+e:\CAPGEMINI PREP\mockSeaInhabitant\bin\Debug\net9.0\mockSeaInhabitant.pdb
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\mockSeaInhabitant.dll
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\refint\mockSeaInhabitant.dll
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\mockSeaInhabitant.pdb
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\mockSeaInhabitant.genruntimeconfig.cache
+e:\CAPGEMINI PREP\mockSeaInhabitant\obj\Debug\net9.0\ref\mockSeaInhabitant.dll

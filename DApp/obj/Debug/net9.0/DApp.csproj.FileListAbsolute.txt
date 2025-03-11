@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\DApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\DApp.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\DApp.AssemblyInfo.cs
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\DApp.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\DApp\bin\Debug\net9.0\DApp.exe
+E:\CAPGEMINI PREP\DApp\bin\Debug\net9.0\DApp.deps.json
+E:\CAPGEMINI PREP\DApp\bin\Debug\net9.0\DApp.runtimeconfig.json
+E:\CAPGEMINI PREP\DApp\bin\Debug\net9.0\DApp.dll
+E:\CAPGEMINI PREP\DApp\bin\Debug\net9.0\DApp.pdb
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\DApp.dll
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\refint\DApp.dll
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\DApp.pdb
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\DApp.genruntimeconfig.cache
+E:\CAPGEMINI PREP\DApp\obj\Debug\net9.0\ref\DApp.dll

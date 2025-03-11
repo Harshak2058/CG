@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Strings\bin\Debug\net9.0\Strings.exe
+E:\CAPGEMINI PREP\Strings\bin\Debug\net9.0\Strings.deps.json
+E:\CAPGEMINI PREP\Strings\bin\Debug\net9.0\Strings.runtimeconfig.json
+E:\CAPGEMINI PREP\Strings\bin\Debug\net9.0\Strings.dll
+E:\CAPGEMINI PREP\Strings\bin\Debug\net9.0\Strings.pdb
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\Strings.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\Strings.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\Strings.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\Strings.dll
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\refint\Strings.dll
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\Strings.pdb
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\Strings.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Strings\obj\Debug\net9.0\ref\Strings.dll

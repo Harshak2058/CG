@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\TinyThreadException.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\TinyThreadException.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\TinyThreadException.AssemblyInfo.cs
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\TinyThreadException.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\TinyThreadException\bin\Debug\net9.0\TinyThreadException.exe
+e:\CAPGEMINI PREP\TinyThreadException\bin\Debug\net9.0\TinyThreadException.deps.json
+e:\CAPGEMINI PREP\TinyThreadException\bin\Debug\net9.0\TinyThreadException.runtimeconfig.json
+e:\CAPGEMINI PREP\TinyThreadException\bin\Debug\net9.0\TinyThreadException.dll
+e:\CAPGEMINI PREP\TinyThreadException\bin\Debug\net9.0\TinyThreadException.pdb
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\TinyThreadException.dll
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\refint\TinyThreadException.dll
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\TinyThreadException.pdb
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\TinyThreadException.genruntimeconfig.cache
+e:\CAPGEMINI PREP\TinyThreadException\obj\Debug\net9.0\ref\TinyThreadException.dll

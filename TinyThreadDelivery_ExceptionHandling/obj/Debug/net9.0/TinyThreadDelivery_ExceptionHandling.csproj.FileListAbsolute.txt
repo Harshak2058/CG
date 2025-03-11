@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.AssemblyInfo.cs
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\bin\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.exe
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\bin\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.deps.json
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\bin\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.runtimeconfig.json
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\bin\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.dll
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\bin\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.pdb
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.dll
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\refint\TinyThreadDelivery_ExceptionHandling.dll
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.pdb
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\TinyThreadDelivery_ExceptionHandling.genruntimeconfig.cache
+E:\CAPGEMINI PREP\TinyThreadDelivery_ExceptionHandling\obj\Debug\net9.0\ref\TinyThreadDelivery_ExceptionHandling.dll

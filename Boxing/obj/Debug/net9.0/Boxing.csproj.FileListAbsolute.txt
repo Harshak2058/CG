@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Boxing\bin\Debug\net9.0\Boxing.exe
+E:\CAPGEMINI PREP\Boxing\bin\Debug\net9.0\Boxing.deps.json
+E:\CAPGEMINI PREP\Boxing\bin\Debug\net9.0\Boxing.runtimeconfig.json
+E:\CAPGEMINI PREP\Boxing\bin\Debug\net9.0\Boxing.dll
+E:\CAPGEMINI PREP\Boxing\bin\Debug\net9.0\Boxing.pdb
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\Boxing.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\Boxing.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\Boxing.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\Boxing.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\Boxing.dll
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\refint\Boxing.dll
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\Boxing.pdb
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\Boxing.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Boxing\obj\Debug\net9.0\ref\Boxing.dll

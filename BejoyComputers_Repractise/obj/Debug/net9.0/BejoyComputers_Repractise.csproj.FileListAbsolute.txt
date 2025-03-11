@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\BejoyComputers_Repractise.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\BejoyComputers_Repractise.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\BejoyComputers_Repractise.AssemblyInfo.cs
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\BejoyComputers_Repractise.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\bin\Debug\net9.0\BejoyComputers_Repractise.exe
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\bin\Debug\net9.0\BejoyComputers_Repractise.deps.json
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\bin\Debug\net9.0\BejoyComputers_Repractise.runtimeconfig.json
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\bin\Debug\net9.0\BejoyComputers_Repractise.dll
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\bin\Debug\net9.0\BejoyComputers_Repractise.pdb
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\BejoyComputers_Repractise.dll
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\refint\BejoyComputers_Repractise.dll
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\BejoyComputers_Repractise.pdb
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\BejoyComputers_Repractise.genruntimeconfig.cache
+e:\CAPGEMINI PREP\BejoyComputers_Repractise\obj\Debug\net9.0\ref\BejoyComputers_Repractise.dll

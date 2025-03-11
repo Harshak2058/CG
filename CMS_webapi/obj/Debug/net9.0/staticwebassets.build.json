@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M9qLbrZuF0dTnvBrlfqoQuBasBJpwQE26YcEvHyro6E=",
+  "Source": "CMS_webapi",
+  "BasePath": "_content/CMS_webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

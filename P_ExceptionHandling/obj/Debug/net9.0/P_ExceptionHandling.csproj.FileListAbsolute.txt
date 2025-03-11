@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\P_ExceptionHandling\bin\Debug\net9.0\P_ExceptionHandling.exe
+e:\CAPGEMINI PREP\P_ExceptionHandling\bin\Debug\net9.0\P_ExceptionHandling.deps.json
+e:\CAPGEMINI PREP\P_ExceptionHandling\bin\Debug\net9.0\P_ExceptionHandling.runtimeconfig.json
+e:\CAPGEMINI PREP\P_ExceptionHandling\bin\Debug\net9.0\P_ExceptionHandling.dll
+e:\CAPGEMINI PREP\P_ExceptionHandling\bin\Debug\net9.0\P_ExceptionHandling.pdb
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\P_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\P_ExceptionHandling.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\P_ExceptionHandling.AssemblyInfo.cs
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\P_ExceptionHandling.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\P_ExceptionHandling.dll
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\refint\P_ExceptionHandling.dll
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\P_ExceptionHandling.pdb
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\P_ExceptionHandling.genruntimeconfig.cache
+e:\CAPGEMINI PREP\P_ExceptionHandling\obj\Debug\net9.0\ref\P_ExceptionHandling.dll

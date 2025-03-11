@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\InfantCoutureBabyDressManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\InfantCoutureBabyDressManagement.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\InfantCoutureBabyDressManagement.AssemblyInfo.cs
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\InfantCoutureBabyDressManagement.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\bin\Debug\net9.0\InfantCoutureBabyDressManagement.exe
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\bin\Debug\net9.0\InfantCoutureBabyDressManagement.deps.json
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\bin\Debug\net9.0\InfantCoutureBabyDressManagement.runtimeconfig.json
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\bin\Debug\net9.0\InfantCoutureBabyDressManagement.dll
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\bin\Debug\net9.0\InfantCoutureBabyDressManagement.pdb
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\InfantCoutureBabyDressManagement.dll
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\refint\InfantCoutureBabyDressManagement.dll
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\InfantCoutureBabyDressManagement.pdb
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\InfantCoutureBabyDressManagement.genruntimeconfig.cache
+E:\CAPGEMINI PREP\InfantCoutureBabyDressManagement\obj\Debug\net9.0\ref\InfantCoutureBabyDressManagement.dll

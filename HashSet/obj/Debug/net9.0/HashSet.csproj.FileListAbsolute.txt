@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\HashSet\bin\Debug\net9.0\HashSet.exe
+E:\CAPGEMINI PREP\HashSet\bin\Debug\net9.0\HashSet.deps.json
+E:\CAPGEMINI PREP\HashSet\bin\Debug\net9.0\HashSet.runtimeconfig.json
+E:\CAPGEMINI PREP\HashSet\bin\Debug\net9.0\HashSet.dll
+E:\CAPGEMINI PREP\HashSet\bin\Debug\net9.0\HashSet.pdb
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\HashSet.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\HashSet.AssemblyInfo.cs
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\HashSet.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\HashSet.dll
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\refint\HashSet.dll
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\HashSet.pdb
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\HashSet.genruntimeconfig.cache
+E:\CAPGEMINI PREP\HashSet\obj\Debug\net9.0\ref\HashSet.dll

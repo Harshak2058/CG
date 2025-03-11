@@ -1,0 +1,71 @@
+CREATE DATABASE IF NOT EXISTS employeeManagement;
+
+use emplyement;
+
+create table employee(empId INT primary key, FirstName varchar(50), LastName varchar(50), Address varchar(100) );
+
+insert into employee(empId, FirstName, LatName, Address) values (101,"Harsha","K","xyzzzzz");
+insert into employee(empId, FirstName, LatName, Address) values (102,"Ronnie","K","abcccc");
+
+ALTER TABLE employement ADD COLUMN age(INT), ADD COLUMN department VARCHAR(50);
+
+to get unique  dept's from table:
+Select DISTINCT department FROM employee;
+SELECT AGE from employee where age>18;
+
+select * from employee where AGE>30 AND department='IT';
+select * from employee where AGE>30 AND department='IT' order by empId;
+
+SELECT * FROM employee WHERE SALARY BETWEEN 1000 AND  2000 ORDER BY salary DESC;
+
+SELECT * 
+FROM employees 
+WHERE department IN ('IT', 'Logistic', 'HR') 
+ORDER BY first_name ASC;
+
+drop column in table:
+ALTER TABLE EMPLOYEE DROP COLUMN LASTNAME;
+
+
+SELECT department, COUNT(empId) AS total_EMP from employee GROUP BY department HAVING COUNT(empId)>15;
+
+SELECT AVG(salary) from Employees;
+
+Select department , COUNT(emp_id) AS emp_count from employee GROUP BY department;
+
+SELECT DEPARTMENT , AVG(SALARY) as ave_salary from employee GROUP BY DEPARTMENT;
+
+SELECT DEPARTMENT, MAX(slary) AS highest_salary FROM EMPLOYEE GROUP BY DEPARTMENT;
+
+HAVING CLAUSE:::: filter the group by applying group by.
+                  IT WORKS LIKE WHERE but fir AGGREGATED CALUES(COUNT,AVE,SUM)
+
+SELECT DEPARTMENT,COUNT(empID) AS emp_count FROM Employee GROUP BY department HAVING COUNT(empId)>10;
+
+AUTO INCREMENT:
+
+create table employee(empId INT AUTO_INCREMENT primary key, FirstName varchar(50), LastName varchar(50), Address varchar(100));
+
+insert only 1st name and last name:
+INSERT INTO EMPLOYEE(firstName, lastName) values('Harsha', 'K');
+
+UPDATE EMPLOYEES SET DOJ='01-01-2001' WHERE emp=1;
+
+--
+EmployeeId	FirstName	LastName	City	Salary	Department
+1	John	Doe	New York	60000.00	IT
+2	Alice	Smith	Los Angeles	55000.00	HR
+3	Michael	Johnson	Chicago	        70000.00	Finance
+4	Sarah	Williams	Houston	48000.00	Marketing
+
+UPDATE EMPLOYEE set department='IT' where empId=101;
+
+
+
+
+
+
+
+
+
+

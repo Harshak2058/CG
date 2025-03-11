@@ -1,0 +1,114 @@
+using System;
+
+class FibonacciWithoutRecursion
+{
+    public static void Main()
+    {
+        Console.WriteLine("Enter number of terms:");
+        int n = int.Parse(Console.ReadLine());
+
+        int firstTerm = 0, secondTerm = 1;
+        Console.Write(firstTerm + " " + secondTerm + " ");
+        
+        for (int i = 3; i <= n; i++) 
+        {
+            int nextTerm = firstTerm + secondTerm;
+            Console.Write(nextTerm + " ");
+            firstTerm = secondTerm;
+            secondTerm = nextTerm;
+        }
+    }
+}
+==============
+
+using System;
+
+class WithRecursion
+{
+    public static int Fibonacci(int n)
+    {
+        if (n == 0) 
+        return 0;
+        if (n == 1) 
+        return 1;
+        return Fibonacci(n - 1) + Fibonacci(n - 2);
+    }
+    
+    public static void Main()
+    {
+        Console.WriteLine("Enter number of terms:");
+        int n = int.Parse(Console.ReadLine());
+
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write(Fibonacci(i) + " ");
+        }
+    }
+}
+
+
+----
+fact without rec
+//recursion
+#include <iostream>
+using namespace std;
+
+long long factorial(int n) {
+    if (n == 0 || n == 1) {
+        return 1;
+    }
+    return n * factorial(n - 1);
+}
+int main() {
+    int number;
+    cout << "Enter a number: ";
+    cin >> number;
+    long long result = factorial(number);
+    cout << "Factorial of " << number << " is: " << result << endl;
+
+    return 0;
+}
+
+//without recursion
+#include <iostream>
+using namespace std;
+
+int main() {
+    int number;
+    cout << "Enter a number: ";
+    cin >> number;
+
+    long long factorial = 1;
+
+    for (int i = 1; i <= number; i++) {
+        factorial *= i;
+    }
+
+    cout << "Factorial of " << number << " is: " << factorial << endl;
+
+    return 0;
+}
+
+===
+using System;
+
+class sod
+{
+    static void Main()
+    {
+        int number, remainder,reverse=0;
+       int sum=0;
+        Console.Write("Enter a number: ");
+        number = Convert.ToInt32(Console.ReadLine());
+        while (number != 0)
+        {
+            remainder = number % 10; 
+            //sum += remainder; 
+            reverse = reverse * 10 + remainder;
+            number /= 10;
+        }
+        //Console.WriteLine("The sum of digits is: " + sum);
+        Console.WriteLine("reverese number: " + reverse);
+    }
+}
+=========

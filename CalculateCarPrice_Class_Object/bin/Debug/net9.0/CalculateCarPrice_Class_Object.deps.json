@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CalculateCarPrice_Class_Object/1.0.0": {
+        "runtime": {
+          "CalculateCarPrice_Class_Object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculateCarPrice_Class_Object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

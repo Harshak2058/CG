@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\LambdaExp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\LambdaExp.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\LambdaExp.AssemblyInfo.cs
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\LambdaExp.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\LambdaExp\bin\Debug\net9.0\LambdaExp.exe
+E:\CAPGEMINI PREP\LambdaExp\bin\Debug\net9.0\LambdaExp.deps.json
+E:\CAPGEMINI PREP\LambdaExp\bin\Debug\net9.0\LambdaExp.runtimeconfig.json
+E:\CAPGEMINI PREP\LambdaExp\bin\Debug\net9.0\LambdaExp.dll
+E:\CAPGEMINI PREP\LambdaExp\bin\Debug\net9.0\LambdaExp.pdb
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\LambdaExp.dll
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\refint\LambdaExp.dll
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\LambdaExp.pdb
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\LambdaExp.genruntimeconfig.cache
+E:\CAPGEMINI PREP\LambdaExp\obj\Debug\net9.0\ref\LambdaExp.dll

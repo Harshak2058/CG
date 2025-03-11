@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\CakeShop_ExceptionRepractise.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\CakeShop_ExceptionRepractise.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\CakeShop_ExceptionRepractise.AssemblyInfo.cs
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\CakeShop_ExceptionRepractise.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\bin\Debug\net9.0\CakeShop_ExceptionRepractise.exe
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\bin\Debug\net9.0\CakeShop_ExceptionRepractise.deps.json
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\bin\Debug\net9.0\CakeShop_ExceptionRepractise.runtimeconfig.json
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\bin\Debug\net9.0\CakeShop_ExceptionRepractise.dll
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\bin\Debug\net9.0\CakeShop_ExceptionRepractise.pdb
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\CakeShop_ExceptionRepractise.dll
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\refint\CakeShop_ExceptionRepractise.dll
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\CakeShop_ExceptionRepractise.pdb
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\CakeShop_ExceptionRepractise.genruntimeconfig.cache
+e:\CAPGEMINI PREP\CakeShop_ExceptionRepractise\obj\Debug\net9.0\ref\CakeShop_ExceptionRepractise.dll

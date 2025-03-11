@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\Polymorphism.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\Polymorphism.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Polymorphism\bin\Debug\net9.0\Polymorphism.exe
+E:\CAPGEMINI PREP\Polymorphism\bin\Debug\net9.0\Polymorphism.deps.json
+E:\CAPGEMINI PREP\Polymorphism\bin\Debug\net9.0\Polymorphism.runtimeconfig.json
+E:\CAPGEMINI PREP\Polymorphism\bin\Debug\net9.0\Polymorphism.dll
+E:\CAPGEMINI PREP\Polymorphism\bin\Debug\net9.0\Polymorphism.pdb
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\Polymorphism.dll
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\refint\Polymorphism.dll
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\Polymorphism.pdb
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\Polymorphism.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Polymorphism\obj\Debug\net9.0\ref\Polymorphism.dll

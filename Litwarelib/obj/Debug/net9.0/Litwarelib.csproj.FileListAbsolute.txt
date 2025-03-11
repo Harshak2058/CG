@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\Litwarelib.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\Litwarelib.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\Litwarelib.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\Litwarelib.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Litwarelib\bin\Debug\net9.0\Litwarelib.exe
+E:\CAPGEMINI PREP\Litwarelib\bin\Debug\net9.0\Litwarelib.deps.json
+E:\CAPGEMINI PREP\Litwarelib\bin\Debug\net9.0\Litwarelib.runtimeconfig.json
+E:\CAPGEMINI PREP\Litwarelib\bin\Debug\net9.0\Litwarelib.dll
+E:\CAPGEMINI PREP\Litwarelib\bin\Debug\net9.0\Litwarelib.pdb
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\Litwarelib.dll
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\refint\Litwarelib.dll
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\Litwarelib.pdb
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\Litwarelib.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Litwarelib\obj\Debug\net9.0\ref\Litwarelib.dll

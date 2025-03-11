@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\HueHub_Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\HueHub_Collections.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\HueHub_Collections.AssemblyInfo.cs
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\HueHub_Collections.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\HueHub_Collections\bin\Debug\net9.0\HueHub_Collections.exe
+E:\CAPGEMINI PREP\HueHub_Collections\bin\Debug\net9.0\HueHub_Collections.deps.json
+E:\CAPGEMINI PREP\HueHub_Collections\bin\Debug\net9.0\HueHub_Collections.runtimeconfig.json
+E:\CAPGEMINI PREP\HueHub_Collections\bin\Debug\net9.0\HueHub_Collections.dll
+E:\CAPGEMINI PREP\HueHub_Collections\bin\Debug\net9.0\HueHub_Collections.pdb
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\HueHub_Collections.dll
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\refint\HueHub_Collections.dll
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\HueHub_Collections.pdb
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\HueHub_Collections.genruntimeconfig.cache
+E:\CAPGEMINI PREP\HueHub_Collections\obj\Debug\net9.0\ref\HueHub_Collections.dll

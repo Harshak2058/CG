@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\AbstractCGProblem\bin\Debug\net9.0\AbstractCGProblem.exe
+E:\CAPGEMINI PREP\AbstractCGProblem\bin\Debug\net9.0\AbstractCGProblem.deps.json
+E:\CAPGEMINI PREP\AbstractCGProblem\bin\Debug\net9.0\AbstractCGProblem.runtimeconfig.json
+E:\CAPGEMINI PREP\AbstractCGProblem\bin\Debug\net9.0\AbstractCGProblem.dll
+E:\CAPGEMINI PREP\AbstractCGProblem\bin\Debug\net9.0\AbstractCGProblem.pdb
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\AbstractCGProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\AbstractCGProblem.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\AbstractCGProblem.AssemblyInfo.cs
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\AbstractCGProblem.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\AbstractCGProblem.dll
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\refint\AbstractCGProblem.dll
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\AbstractCGProblem.pdb
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\AbstractCGProblem.genruntimeconfig.cache
+E:\CAPGEMINI PREP\AbstractCGProblem\obj\Debug\net9.0\ref\AbstractCGProblem.dll

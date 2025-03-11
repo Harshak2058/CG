@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\CustomException.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\CustomException.AssemblyInfo.cs
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\CustomException.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\CustomException\bin\Debug\net9.0\CustomException.exe
+E:\CAPGEMINI PREP\CustomException\bin\Debug\net9.0\CustomException.deps.json
+E:\CAPGEMINI PREP\CustomException\bin\Debug\net9.0\CustomException.runtimeconfig.json
+E:\CAPGEMINI PREP\CustomException\bin\Debug\net9.0\CustomException.dll
+E:\CAPGEMINI PREP\CustomException\bin\Debug\net9.0\CustomException.pdb
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\CustomException.dll
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\refint\CustomException.dll
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\CustomException.pdb
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\CustomException.genruntimeconfig.cache
+E:\CAPGEMINI PREP\CustomException\obj\Debug\net9.0\ref\CustomException.dll

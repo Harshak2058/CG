@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\PetShopFishInventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\PetShopFishInventoryManagement.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\PetShopFishInventoryManagement.AssemblyInfo.cs
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\PetShopFishInventoryManagement.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\bin\Debug\net9.0\PetShopFishInventoryManagement.exe
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\bin\Debug\net9.0\PetShopFishInventoryManagement.deps.json
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\bin\Debug\net9.0\PetShopFishInventoryManagement.runtimeconfig.json
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\bin\Debug\net9.0\PetShopFishInventoryManagement.dll
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\bin\Debug\net9.0\PetShopFishInventoryManagement.pdb
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\PetShopFishInventoryManagement.dll
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\refint\PetShopFishInventoryManagement.dll
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\PetShopFishInventoryManagement.pdb
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\PetShopFishInventoryManagement.genruntimeconfig.cache
+E:\CAPGEMINI PREP\PetShopFishInventoryManagement\obj\Debug\net9.0\ref\PetShopFishInventoryManagement.dll

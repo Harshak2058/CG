@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TinyThreadDelivery_ExceptionHandling/1.0.0": {
+        "runtime": {
+          "TinyThreadDelivery_ExceptionHandling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TinyThreadDelivery_ExceptionHandling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

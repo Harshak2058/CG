@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\SeaInhibitant_ReRePractise.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\SeaInhibitant_ReRePractise.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\SeaInhibitant_ReRePractise.AssemblyInfo.cs
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\SeaInhibitant_ReRePractise.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\bin\Debug\net9.0\SeaInhibitant_ReRePractise.exe
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\bin\Debug\net9.0\SeaInhibitant_ReRePractise.deps.json
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\bin\Debug\net9.0\SeaInhibitant_ReRePractise.runtimeconfig.json
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\bin\Debug\net9.0\SeaInhibitant_ReRePractise.dll
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\bin\Debug\net9.0\SeaInhibitant_ReRePractise.pdb
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\SeaInhibitant_ReRePractise.dll
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\refint\SeaInhibitant_ReRePractise.dll
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\SeaInhibitant_ReRePractise.pdb
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\SeaInhibitant_ReRePractise.genruntimeconfig.cache
+e:\CAPGEMINI PREP\SeaInhibitant_ReRePractise\obj\Debug\net9.0\ref\SeaInhibitant_ReRePractise.dll

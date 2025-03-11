@@ -1,0 +1,45 @@
+oftware
+	
+Links
+
+
+ 
+	
+ 
+
+
+Visual Studio 2022
+	
+https://visualstudio.microsoft.com/downloads/
+
+
+SQL Server
+	
+ SQLServer2016.zip
+
+
+Postman
+	
+https://www.postman.com/downloads/
+
+
+Node.js(for angular)
+	
+https://nodejs.org/en/download/
+
+
+Git Bash
+	
+https://git-scm.com/download/win
+
+
+Visual Studio Code
+	
+https://code.visualstudio.com/download
+
+
+
+
+ 
+
+

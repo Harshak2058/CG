@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\String123\bin\Debug\net9.0\String123.exe
+E:\CAPGEMINI PREP\String123\bin\Debug\net9.0\String123.deps.json
+E:\CAPGEMINI PREP\String123\bin\Debug\net9.0\String123.runtimeconfig.json
+E:\CAPGEMINI PREP\String123\bin\Debug\net9.0\String123.dll
+E:\CAPGEMINI PREP\String123\bin\Debug\net9.0\String123.pdb
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\String123.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\String123.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\String123.AssemblyInfo.cs
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\String123.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\String123.dll
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\refint\String123.dll
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\String123.pdb
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\String123.genruntimeconfig.cache
+E:\CAPGEMINI PREP\String123\obj\Debug\net9.0\ref\String123.dll

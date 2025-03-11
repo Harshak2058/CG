@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\DoggoDealingDogManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\DoggoDealingDogManagementSystem.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\DoggoDealingDogManagementSystem.AssemblyInfo.cs
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\DoggoDealingDogManagementSystem.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\bin\Debug\net9.0\DoggoDealingDogManagementSystem.exe
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\bin\Debug\net9.0\DoggoDealingDogManagementSystem.deps.json
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\bin\Debug\net9.0\DoggoDealingDogManagementSystem.runtimeconfig.json
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\bin\Debug\net9.0\DoggoDealingDogManagementSystem.dll
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\bin\Debug\net9.0\DoggoDealingDogManagementSystem.pdb
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\DoggoDealingDogManagementSystem.dll
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\refint\DoggoDealingDogManagementSystem.dll
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\DoggoDealingDogManagementSystem.pdb
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\DoggoDealingDogManagementSystem.genruntimeconfig.cache
+E:\CAPGEMINI PREP\DoggoDealingDogManagementSystem\obj\Debug\net9.0\ref\DoggoDealingDogManagementSystem.dll

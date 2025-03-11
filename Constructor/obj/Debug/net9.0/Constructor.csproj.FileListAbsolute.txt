@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Constructor\bin\Debug\net9.0\Constructor.exe
+E:\CAPGEMINI PREP\Constructor\bin\Debug\net9.0\Constructor.deps.json
+E:\CAPGEMINI PREP\Constructor\bin\Debug\net9.0\Constructor.runtimeconfig.json
+E:\CAPGEMINI PREP\Constructor\bin\Debug\net9.0\Constructor.dll
+E:\CAPGEMINI PREP\Constructor\bin\Debug\net9.0\Constructor.pdb
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\Constructor.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\Constructor.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\Constructor.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\Constructor.dll
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\refint\Constructor.dll
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\Constructor.pdb
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\Constructor.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Constructor\obj\Debug\net9.0\ref\Constructor.dll

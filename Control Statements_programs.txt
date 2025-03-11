@@ -1,0 +1,183 @@
+Console.WriteLine("Enter your age:");
+        int age = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Enter your weight in kilograms:");
+        int weight = Convert.ToInt32(Console.ReadLine());
+
+        // Check if the user meets the skydiving eligibility criteria
+        if (age >= 18 && weight < 90)
+        {
+            Console.WriteLine("You are allowed to go skydiving");
+        }
+        else if (age < 18)
+        {
+            Console.WriteLine("You are not allowed to go skydiving due to age");
+        }
+        else if (weight >= 90)
+        {
+            Console.WriteLine("You are not allowed to go skydiving due to weight");
+        }
+    }
+}
+======
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter your age:");
+        int age = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("Enter your weight (in kg):");
+        int weight = Convert.ToInt32(Console.ReadLine());
+
+        if (age >= 18 && weight < 90)
+        {
+            Console.WriteLine("You are allowed to go skydiving.");
+        }
+        else
+        {
+            Console.WriteLine("You are not allowed to go skydiving.");
+        }
+    }
+=============
+using System;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        // Get income and credit score from the user
+        Console.WriteLine("Enter your income");
+        int income = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter your credit score");
+        int creditScore = int.Parse(Console.ReadLine());
+
+        // Check the eligibility criteria
+        if (income >= 50000 && creditScore >= 700)
+        {
+            Console.WriteLine("You are eligible for a loan");
+        }
+        else if (income >= 25000 && creditScore >= 650)
+        {
+            Console.WriteLine("Eligible, but may face higher interest rates");
+        }
+        else
+        {
+            Console.WriteLine("You are not eligible for a loan");
+        }
+    }
+}
+=============
+using System;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        // Get user input for the three documents
+        Console.WriteLine("Do you have identity proof");
+        string identityProof = Console.ReadLine();
+        
+        Console.WriteLine("Do you have address proof");
+        string addressProof = Console.ReadLine();
+        
+        Console.WriteLine("Do you have ssn number");
+        string ssnNumber = Console.ReadLine();
+        
+        // Verify if all required documents are available
+        if (identityProof == "Available" && addressProof == "Available" && ssnNumber == "Available")
+        {
+            Console.WriteLine("Account created successfully");
+        }
+        else
+        {
+            if (identityProof != "Available")
+            {
+                Console.WriteLine("You need identity proof");
+            }
+            else if (addressProof != "Available")
+            {
+                Console.WriteLine("You need address proof");
+            }
+            else if (ssnNumber != "Available")
+            {
+                Console.WriteLine("You need ssn number");
+            }
+        }
+    }
+}
+
+==
+
+
+
+using System;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        // Asking the user to input the number of times to display the message
+        Console.WriteLine("Enter the number of times");
+        int numTimes = int.Parse(Console.ReadLine());  // Read and parse the number of times
+        
+        // Asking the user to input the message to display
+        Console.WriteLine("Enter the message");
+        string message = Console.ReadLine();  // Read the message
+        
+        // Using a for loop to display the message the specified number of times
+        for (int i = 0; i < numTimes; i++)
+        {
+            Console.WriteLine(message);
+        }
+    }
+}
+==
+using System;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter the first number");
+        int firstNumber = int.Parse(Console.ReadLine());
+        
+        Console.WriteLine("Enter the last number");
+        int lastNumber = int.Parse(Console.ReadLine());
+        
+        if (firstNumber == lastNumber)
+        {
+            Console.WriteLine(firstNumber);
+        }
+        else
+        {
+            int sum = 0;
+            for (int i = firstNumber; i <= lastNumber; i++)
+            {
+                sum += i;
+            }
+            Console.WriteLine(sum);
+        }
+    }
+}
+==
+using System;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter the age:");
+        int age = int.Parse(Console.ReadLine());
+
+        if (age >= 16)
+        {
+            Console.WriteLine("Applicant is eligible");
+        }
+        else
+        {
+            Console.WriteLine("Applicant is not eligible");
+        }
+    }
+}

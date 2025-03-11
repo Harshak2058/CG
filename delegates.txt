@@ -1,0 +1,73 @@
+
+        Func<int, int, int> add = (a, b) => a + b;
+
+        Console.Write("Enter first number: ");
+        int num1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Enter second number: ");
+        int num2 = Convert.ToInt32(Console.ReadLine());
+
+        int result = add(num1, num2); 
+        Console.WriteLine($"Sum: {result}");
+    }
+}
+==
+
+        Func<int> ConstValue = () => 1;
+        int result = ConstValue();
+        Console.WriteLine(result);
+    ==
+
+        
+        Func<int, bool> isEven = num => num % 2 == 0;
+
+        
+        Console.Write("Enter a number: ");
+        int number = Convert.ToInt32(Console.ReadLine());
+
+        
+        if (isEven(number))
+        {
+            Console.WriteLine($"{number} is even.");
+        }
+        else
+        {
+            Console.WriteLine($"{number} is odd.");
+        }
+    }
+}
+==
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
+        // Create a list of numbers from 1 to 9
+        List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+
+        // Lambda expression to check for even numbers
+        Func<int, bool> isEven = num => num % 2 == 0;
+
+        // Create a new list to store even numbers
+        List<int> evenNumbers = numbers.FindAll(isEven);
+
+        // Display the even numbers
+        Console.WriteLine("Even numbers: ");
+        foreach (var num in evenNumbers)
+        {
+            Console.WriteLine(num);
+        }
+    }
+}
+==
+
+        List<string> list1 = new List<string> { "apple", "banana", "cherry", "date" };
+        
+        var lengths = list1.Select(s => s.Length).ToList();
+
+        foreach (var length in lengths)
+        {
+            Console.WriteLine(length);
+        }

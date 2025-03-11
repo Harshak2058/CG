@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\InfantCouture_RePractise.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\InfantCouture_RePractise.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\InfantCouture_RePractise.AssemblyInfo.cs
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\InfantCouture_RePractise.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\InfantCouture_RePractise\bin\Debug\net9.0\InfantCouture_RePractise.exe
+e:\CAPGEMINI PREP\InfantCouture_RePractise\bin\Debug\net9.0\InfantCouture_RePractise.deps.json
+e:\CAPGEMINI PREP\InfantCouture_RePractise\bin\Debug\net9.0\InfantCouture_RePractise.runtimeconfig.json
+e:\CAPGEMINI PREP\InfantCouture_RePractise\bin\Debug\net9.0\InfantCouture_RePractise.dll
+e:\CAPGEMINI PREP\InfantCouture_RePractise\bin\Debug\net9.0\InfantCouture_RePractise.pdb
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\InfantCouture_RePractise.dll
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\refint\InfantCouture_RePractise.dll
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\InfantCouture_RePractise.pdb
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\InfantCouture_RePractise.genruntimeconfig.cache
+e:\CAPGEMINI PREP\InfantCouture_RePractise\obj\Debug\net9.0\ref\InfantCouture_RePractise.dll

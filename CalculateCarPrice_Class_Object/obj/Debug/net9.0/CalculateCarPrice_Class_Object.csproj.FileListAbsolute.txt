@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\CalculateCarPrice_Class_Object.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\CalculateCarPrice_Class_Object.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\CalculateCarPrice_Class_Object.AssemblyInfo.cs
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\CalculateCarPrice_Class_Object.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\bin\Debug\net9.0\CalculateCarPrice_Class_Object.exe
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\bin\Debug\net9.0\CalculateCarPrice_Class_Object.deps.json
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\bin\Debug\net9.0\CalculateCarPrice_Class_Object.runtimeconfig.json
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\bin\Debug\net9.0\CalculateCarPrice_Class_Object.dll
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\bin\Debug\net9.0\CalculateCarPrice_Class_Object.pdb
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\CalculateCarPrice_Class_Object.dll
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\refint\CalculateCarPrice_Class_Object.dll
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\CalculateCarPrice_Class_Object.pdb
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\CalculateCarPrice_Class_Object.genruntimeconfig.cache
+e:\CAPGEMINI PREP\CalculateCarPrice_Class_Object\obj\Debug\net9.0\ref\CalculateCarPrice_Class_Object.dll

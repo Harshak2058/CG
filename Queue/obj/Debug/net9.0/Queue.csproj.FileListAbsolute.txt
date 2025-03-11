@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Queue\bin\Debug\net9.0\Queue.exe
+E:\CAPGEMINI PREP\Queue\bin\Debug\net9.0\Queue.deps.json
+E:\CAPGEMINI PREP\Queue\bin\Debug\net9.0\Queue.runtimeconfig.json
+E:\CAPGEMINI PREP\Queue\bin\Debug\net9.0\Queue.dll
+E:\CAPGEMINI PREP\Queue\bin\Debug\net9.0\Queue.pdb
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\Queue.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\Queue.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\Queue.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\Queue.dll
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\refint\Queue.dll
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\Queue.pdb
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\Queue.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Queue\obj\Debug\net9.0\ref\Queue.dll

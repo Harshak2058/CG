@@ -1,0 +1,174 @@
+In the last exercise, we helped Sam and John display a message. On the next day of class, the trainer taught them about C# data types and gave them a task. In this task, they want to get inputs of different data types from the user and display them.
+
+Help them to complete the task by using your C# coding skills.
+
+ 
+
+Functionality :
+
+In Program class, implement the below given method.
+
+Method
+
+Description
+
+public static void Main(string[ ] args)
+
+In this method, get the inputs of datatype - int, float, double, long, and string, then store it in different variables. After getting the input, print those variables one by one as per the sample output and followed by newline.
+
+
+
+Note :
+
+Keep the method and class as public.
+Please read the method rules clearly.
+Do not use Environment.Exit() to terminate the program.
+Do not change the given code template.
+ 
+
+Summary : They have learned about data types and how to get different data type values from the user in C#.
+
+
+
+Sample Input:
+
+Enter an integer value
+
+5
+
+Enter a float value
+
+1.05
+
+Enter a double value
+
+6.89989
+
+Enter a long value
+
+1234567890
+
+Enter a string
+
+Hello
+
+ 
+
+Sample Output:
+
+int: 5
+
+float: 1.05
+
+double: 6.89989
+
+long: 1234567890
+
+string: Hello
+
+
+==
+Console.WriteLine("Enter an integer value");
+            int intValue = int.Parse(Console.ReadLine());
+
+            // Prompting and reading a float value
+            Console.WriteLine("Enter a float value");
+            float floatValue = float.Parse(Console.ReadLine());
+
+            // Prompting and reading a double value
+            Console.WriteLine("Enter a double value");
+            double doubleValue = double.Parse(Console.ReadLine());
+
+            // Prompting and reading a long value
+            Console.WriteLine("Enter a long value");
+            long longValue = long.Parse(Console.ReadLine());
+
+            // Prompting and reading a string value
+            Console.WriteLine("Enter a string");
+            string stringValue = Console.ReadLine();
+
+            // Printing the values as per the required format
+            Console.WriteLine($"int: {intValue}");
+            Console.WriteLine($"float: {floatValue}");
+            Console.WriteLine($"double: {doubleValue}");
+            Console.WriteLine($"long: {longValue}");
+            Console.WriteLine($"string: {stringValue}");
+================
+namespace gettinginputs
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            // Reading an integer value
+            int intValue = int.Parse(Console.ReadLine());
+
+            // Reading a float value
+            float floatValue = float.Parse(Console.ReadLine());
+
+            // Reading a double value
+            double doubleValue = double.Parse(Console.ReadLine());
+
+            // Reading a long value
+            long longValue = long.Parse(Console.ReadLine());
+
+            // Reading a string value
+            string stringValue = Console.ReadLine();
+
+            // Printing the values as per the required format
+            Console.WriteLine($"int: {intValue}");
+            Console.WriteLine($"float: {floatValue}");
+            Console.WriteLine($"double: {doubleValue}");
+            Console.WriteLine($"long: {longValue}");
+            Console.WriteLine($"string: {stringValue}");
+        }
+    }
+}
+=
+namespace Variables
+{
+    public class Movie
+    {
+        // Static variable
+        public static string name;
+        
+        // Instance variables
+        public int ticketId;
+        public string seatNumber;
+
+        // Method to return movie details
+        public Movie ReturnMovieDetails(string name, int ticketId, string seatNumber)
+        {
+            Movie.name = name; // Setting the static variable
+            Movie obj = new Movie(); // Creating the movie object
+            obj.ticketId = ticketId; // Setting instance variables
+            obj.seatNumber = seatNumber; // Setting instance variables
+            return obj; // Returning the movie object
+        }
+    }
+
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            // Take user input
+            Console.WriteLine("Enter the movie name:");
+            string movieName = Console.ReadLine();
+
+            Console.WriteLine("Enter the ticket id:");
+            int ticketId = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the seat number:");
+            string seatNumber = Console.ReadLine();
+
+            // Create an object of Movie class and call the method
+            Movie movie1 = new Movie();
+            movie1 = movie1.ReturnMovieDetails(movieName, ticketId, seatNumber);
+
+            // Display the result
+            Console.WriteLine($"Movie name: {Movie.name}"); // Accessing static variable correctly
+            Console.WriteLine($"Ticket id: {movie1.ticketId}");
+            Console.WriteLine($"Seat number: {movie1.seatNumber}");
+        }
+    }
+}

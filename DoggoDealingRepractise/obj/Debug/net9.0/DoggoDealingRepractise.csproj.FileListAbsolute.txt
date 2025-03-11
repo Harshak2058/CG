@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\DoggoDealingRepractise.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\DoggoDealingRepractise.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\DoggoDealingRepractise.AssemblyInfo.cs
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\DoggoDealingRepractise.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\DoggoDealingRepractise\bin\Debug\net9.0\DoggoDealingRepractise.exe
+e:\CAPGEMINI PREP\DoggoDealingRepractise\bin\Debug\net9.0\DoggoDealingRepractise.deps.json
+e:\CAPGEMINI PREP\DoggoDealingRepractise\bin\Debug\net9.0\DoggoDealingRepractise.runtimeconfig.json
+e:\CAPGEMINI PREP\DoggoDealingRepractise\bin\Debug\net9.0\DoggoDealingRepractise.dll
+e:\CAPGEMINI PREP\DoggoDealingRepractise\bin\Debug\net9.0\DoggoDealingRepractise.pdb
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\DoggoDealingRepractise.dll
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\refint\DoggoDealingRepractise.dll
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\DoggoDealingRepractise.pdb
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\DoggoDealingRepractise.genruntimeconfig.cache
+e:\CAPGEMINI PREP\DoggoDealingRepractise\obj\Debug\net9.0\ref\DoggoDealingRepractise.dll

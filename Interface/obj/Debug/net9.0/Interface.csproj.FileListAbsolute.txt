@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Interface\bin\Debug\net9.0\Interface.exe
+E:\CAPGEMINI PREP\Interface\bin\Debug\net9.0\Interface.deps.json
+E:\CAPGEMINI PREP\Interface\bin\Debug\net9.0\Interface.runtimeconfig.json
+E:\CAPGEMINI PREP\Interface\bin\Debug\net9.0\Interface.dll
+E:\CAPGEMINI PREP\Interface\bin\Debug\net9.0\Interface.pdb
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\Interface.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\Interface.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\Interface.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\Interface.dll
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\refint\Interface.dll
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\Interface.pdb
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\Interface.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Interface\obj\Debug\net9.0\ref\Interface.dll

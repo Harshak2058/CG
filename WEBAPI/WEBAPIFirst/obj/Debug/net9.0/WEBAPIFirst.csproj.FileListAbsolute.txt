@@ -1,0 +1,76 @@
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.csproj.AssemblyReference.cache
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.AssemblyInfoInputs.cache
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.AssemblyInfo.cs
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.csproj.CoreCompileInputs.cache
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\appsettings.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.staticwebassets.endpoints.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.exe
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.deps.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.runtimeconfig.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.pdb
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\scopedcss\bundle\WEBAPIFirst.styles.css
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.WEBAPIFirst.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.WEBAPIFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.build.WEBAPIFirst.props
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPIFirst.props
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WEBAPIFirst.props
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFi.5EB15F32.Up2Date
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\refint\WEBAPIFirst.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.pdb
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.genruntimeconfig.cache
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\ref\WEBAPIFirst.dll
+C:\Users\AbhinavReddy\OneDrive\Desktop\CapgeminiSofyware\oopdems\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\appsettings.Development.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\appsettings.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.staticwebassets.endpoints.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.exe
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.deps.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.runtimeconfig.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\WEBAPIFirst.pdb
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Microsoft.OpenApi.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.csproj.AssemblyReference.cache
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.AssemblyInfo.cs
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.MvcApplicationPartsAssemblyInfo.cs
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.MvcApplicationPartsAssemblyInfo.cache
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\scopedcss\bundle\WEBAPIFirst.styles.css
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets.build.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets.development.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.WEBAPIFirst.Microsoft.AspNetCore.StaticWebAssets.props
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.WEBAPIFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.build.WEBAPIFirst.props
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.WEBAPIFirst.props
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.WEBAPIFirst.props
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\staticwebassets.pack.json
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFi.5EB15F32.Up2Date
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\refint\WEBAPIFirst.dll
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.pdb
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\WEBAPIFirst.genruntimeconfig.cache
+e:\CAPGEMINI PREP\WEBAPI\WEBAPIFirst\obj\Debug\net9.0\ref\WEBAPIFirst.dll

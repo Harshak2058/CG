@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\CandyCraze_Class_Object.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\CandyCraze_Class_Object.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\CandyCraze_Class_Object.AssemblyInfo.cs
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\CandyCraze_Class_Object.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\bin\Debug\net9.0\CandyCraze_Class_Object.exe
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\bin\Debug\net9.0\CandyCraze_Class_Object.deps.json
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\bin\Debug\net9.0\CandyCraze_Class_Object.runtimeconfig.json
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\bin\Debug\net9.0\CandyCraze_Class_Object.dll
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\bin\Debug\net9.0\CandyCraze_Class_Object.pdb
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\CandyCraze_Class_Object.dll
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\refint\CandyCraze_Class_Object.dll
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\CandyCraze_Class_Object.pdb
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\CandyCraze_Class_Object.genruntimeconfig.cache
+E:\CAPGEMINI PREP\CandyCraze_Class_Object\obj\Debug\net9.0\ref\CandyCraze_Class_Object.dll

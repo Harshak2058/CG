@@ -1,0 +1,4 @@
+e:\CAPGEMINI PREP\MachineMasters_AbstractClass\obj\Debug\net9.0\MachineMasters_AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\MachineMasters_AbstractClass\obj\Debug\net9.0\MachineMasters_AbstractClass.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\MachineMasters_AbstractClass\obj\Debug\net9.0\MachineMasters_AbstractClass.AssemblyInfo.cs
+e:\CAPGEMINI PREP\MachineMasters_AbstractClass\obj\Debug\net9.0\MachineMasters_AbstractClass.csproj.CoreCompileInputs.cache

@@ -1,0 +1,68 @@
+/******************************************************************************
+
+                            Online C# Compiler.
+                Code, Compile, Run and Debug C# program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+
+using System;
+
+abstract class Car
+{
+    private string model;
+    private float price;
+
+    public void InputDetails()
+    {
+        Console.WriteLine("Enter model number:");
+        model = Console.ReadLine();
+
+        Console.WriteLine("Enter price:");
+        price = float.Parse(Console.ReadLine());
+    }
+
+    public void DisplayDetails()
+    {
+        Console.WriteLine($"Model: {model}");
+        Console.WriteLine($"Price: {price}");
+    }
+
+    public abstract void StartEngine();
+}
+
+class SportsCar : Car
+{
+    private string performance;
+
+    public void PerDetails()
+    {
+        InputDetails();
+        Console.WriteLine("Enter performance details:");
+        performance = Console.ReadLine();
+    }
+
+    public void DisplayPerformanceDetails()
+    {
+        DisplayDetails();
+        Console.WriteLine($"Performance: {performance}");
+    }
+
+    public override void StartEngine()
+    {
+        Console.WriteLine("Sports car engine started!");
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        SportsCar mySportsCar = new SportsCar();
+        mySportsCar.PerDetails();
+        mySportsCar.StartEngine();
+        Console.WriteLine("---Sports Car Details:---");
+        mySportsCar.DisplayPerformanceDetails();
+    }
+}
+

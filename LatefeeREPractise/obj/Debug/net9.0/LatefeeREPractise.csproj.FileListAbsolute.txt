@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\LatefeeREPractise.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\LatefeeREPractise.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\LatefeeREPractise.AssemblyInfo.cs
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\LatefeeREPractise.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\LatefeeREPractise\bin\Debug\net9.0\LatefeeREPractise.exe
+e:\CAPGEMINI PREP\LatefeeREPractise\bin\Debug\net9.0\LatefeeREPractise.deps.json
+e:\CAPGEMINI PREP\LatefeeREPractise\bin\Debug\net9.0\LatefeeREPractise.runtimeconfig.json
+e:\CAPGEMINI PREP\LatefeeREPractise\bin\Debug\net9.0\LatefeeREPractise.dll
+e:\CAPGEMINI PREP\LatefeeREPractise\bin\Debug\net9.0\LatefeeREPractise.pdb
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\LatefeeREPractise.dll
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\refint\LatefeeREPractise.dll
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\LatefeeREPractise.pdb
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\LatefeeREPractise.genruntimeconfig.cache
+e:\CAPGEMINI PREP\LatefeeREPractise\obj\Debug\net9.0\ref\LatefeeREPractise.dll

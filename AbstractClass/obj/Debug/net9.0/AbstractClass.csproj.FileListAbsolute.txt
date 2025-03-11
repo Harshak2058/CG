@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\AbstractClass\bin\Debug\net9.0\AbstractClass.exe
+E:\CAPGEMINI PREP\AbstractClass\bin\Debug\net9.0\AbstractClass.deps.json
+E:\CAPGEMINI PREP\AbstractClass\bin\Debug\net9.0\AbstractClass.runtimeconfig.json
+E:\CAPGEMINI PREP\AbstractClass\bin\Debug\net9.0\AbstractClass.dll
+E:\CAPGEMINI PREP\AbstractClass\bin\Debug\net9.0\AbstractClass.pdb
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\AbstractClass.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\AbstractClass.AssemblyInfo.cs
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\AbstractClass.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\AbstractClass.dll
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\refint\AbstractClass.dll
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\AbstractClass.pdb
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\AbstractClass.genruntimeconfig.cache
+E:\CAPGEMINI PREP\AbstractClass\obj\Debug\net9.0\ref\AbstractClass.dll

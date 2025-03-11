@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BankAssignmentRashmi/1.0.0": {
+        "runtime": {
+          "BankAssignmentRashmi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankAssignmentRashmi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

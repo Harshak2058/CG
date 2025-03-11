@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\InfantCouture_Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\InfantCouture_Collections.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\InfantCouture_Collections.AssemblyInfo.cs
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\InfantCouture_Collections.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\InfantCouture_Collections\bin\Debug\net9.0\InfantCouture_Collections.exe
+E:\CAPGEMINI PREP\InfantCouture_Collections\bin\Debug\net9.0\InfantCouture_Collections.deps.json
+E:\CAPGEMINI PREP\InfantCouture_Collections\bin\Debug\net9.0\InfantCouture_Collections.runtimeconfig.json
+E:\CAPGEMINI PREP\InfantCouture_Collections\bin\Debug\net9.0\InfantCouture_Collections.dll
+E:\CAPGEMINI PREP\InfantCouture_Collections\bin\Debug\net9.0\InfantCouture_Collections.pdb
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\InfantCouture_Collections.dll
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\refint\InfantCouture_Collections.dll
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\InfantCouture_Collections.pdb
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\InfantCouture_Collections.genruntimeconfig.cache
+E:\CAPGEMINI PREP\InfantCouture_Collections\obj\Debug\net9.0\ref\InfantCouture_Collections.dll

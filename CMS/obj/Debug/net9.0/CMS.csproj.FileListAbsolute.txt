@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\CMS\bin\Debug\net9.0\CMS.exe
+E:\CAPGEMINI PREP\CMS\bin\Debug\net9.0\CMS.deps.json
+E:\CAPGEMINI PREP\CMS\bin\Debug\net9.0\CMS.runtimeconfig.json
+E:\CAPGEMINI PREP\CMS\bin\Debug\net9.0\CMS.dll
+E:\CAPGEMINI PREP\CMS\bin\Debug\net9.0\CMS.pdb
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\CMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\CMS.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\CMS.AssemblyInfo.cs
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\CMS.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\CMS.dll
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\refint\CMS.dll
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\CMS.pdb
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\CMS.genruntimeconfig.cache
+E:\CAPGEMINI PREP\CMS\obj\Debug\net9.0\ref\CMS.dll

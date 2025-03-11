@@ -1,0 +1,4 @@
+e:\CAPGEMINI PREP\WebApi_Sample\obj\Debug\net9.0\WebApi_Sample.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\WebApi_Sample\obj\Debug\net9.0\WebApi_Sample.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\WebApi_Sample\obj\Debug\net9.0\WebApi_Sample.AssemblyInfo.cs
+e:\CAPGEMINI PREP\WebApi_Sample\obj\Debug\net9.0\WebApi_Sample.csproj.CoreCompileInputs.cache

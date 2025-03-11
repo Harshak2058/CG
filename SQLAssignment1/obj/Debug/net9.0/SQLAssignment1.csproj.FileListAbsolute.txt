@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\SQLAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\SQLAssignment1.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\SQLAssignment1.AssemblyInfo.cs
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\SQLAssignment1.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\SQLAssignment1\bin\Debug\net9.0\SQLAssignment1.exe
+E:\CAPGEMINI PREP\SQLAssignment1\bin\Debug\net9.0\SQLAssignment1.deps.json
+E:\CAPGEMINI PREP\SQLAssignment1\bin\Debug\net9.0\SQLAssignment1.runtimeconfig.json
+E:\CAPGEMINI PREP\SQLAssignment1\bin\Debug\net9.0\SQLAssignment1.dll
+E:\CAPGEMINI PREP\SQLAssignment1\bin\Debug\net9.0\SQLAssignment1.pdb
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\SQLAssignment1.dll
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\refint\SQLAssignment1.dll
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\SQLAssignment1.pdb
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\SQLAssignment1.genruntimeconfig.cache
+E:\CAPGEMINI PREP\SQLAssignment1\obj\Debug\net9.0\ref\SQLAssignment1.dll

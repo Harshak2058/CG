@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\Fish_Repractise.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\Fish_Repractise.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\Fish_Repractise.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\Fish_Repractise.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Fish_Repractise\bin\Debug\net9.0\Fish_Repractise.exe
+E:\CAPGEMINI PREP\Fish_Repractise\bin\Debug\net9.0\Fish_Repractise.deps.json
+E:\CAPGEMINI PREP\Fish_Repractise\bin\Debug\net9.0\Fish_Repractise.runtimeconfig.json
+E:\CAPGEMINI PREP\Fish_Repractise\bin\Debug\net9.0\Fish_Repractise.dll
+E:\CAPGEMINI PREP\Fish_Repractise\bin\Debug\net9.0\Fish_Repractise.pdb
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\Fish_Repractise.dll
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\refint\Fish_Repractise.dll
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\Fish_Repractise.pdb
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\Fish_Repractise.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Fish_Repractise\obj\Debug\net9.0\ref\Fish_Repractise.dll

@@ -1,0 +1,218 @@
+
+using System;
+using System.Collections;
+class HelloWorld {
+  static void Main() {
+    ArrayList myList= new ArrayList();//non gneric
+    myList.Add("Harsha");
+    
+  }
+}
+
+.contains() to check whethere paritcular data is avaulable or not
+Collection.sort is used ton sort data
+ in arraylist
+
+-
+Feature  	         Array (T[])	   ArrayList (ArrayList<T>)	List (List<T>)
+Size	                Fixed    	      Dynamic 	                  Dynamic 
+Methods Available	only length	 add(), remove(),                Provides common list operations 
+                                          size(), contains(), sort()	 (implemented by ArrayList, LinkedList, etc.)
+List:  is a dynamic, resizable collection
+        belongs to the System.Collections.Generic namespace   
+        static void Main() {
+        List<int> numbers = new List<int>();
+        numbers.Add(10);
+        numbers.Add(20);
+        numbers.Add(30);
+        Console.WriteLine("List Elements:");
+        foreach (int num in numbers) {
+            Console.WriteLine(num);
+        }
+            to initialize: List<string> names = new List<string> { "Harsha", "Rahul", "Ananya" };
+            Console.WriteLine(names[0]);
+             names[1] = "Rohan"; 
+remove element: names.Remove("Rohan");
+names.RemoveAt(0);    
+
+==
+Dictionary:  key-value pair collection that allows fast lookup, addition, and removal of elements
+              part of the System.Collections.Generic namespace.
+
+
+   static void Main() {
+        // Creating a Dictionary with string keys and int values
+        Dictionary<string, int> studentMarks = new Dictionary<string, int>();
+
+        // Adding elements
+        studentMarks.Add("Harsha", 90);
+        studentMarks.Add("Rahul", 85);
+        studentMarks.Add("Ananya", 95);
+
+        // Printing dictionary elements
+        foreach (var pair in studentMarks) {
+            Console.WriteLine($"{pair.Key}: {pair.Value}");
+        }
+    }
+
+Stack:
+Last In, First Out (LIFO) collection
+static void Main() {
+        // Creating a Stack of integers
+        Stack<int> numbers = new Stack<int>();
+
+        // Adding (Pushing) elements
+        numbers.Push(10);
+        numbers.Push(20);
+        numbers.Push(30);
+        numbers.Pop(); // Removes 30 (last inserted element)
+
+
+        // Printing stack elements
+        Console.WriteLine("Stack Elements:");
+        foreach (int num in numbers) {
+            Console.WriteLine(num);
+        }
+    }
+ int top = numbers.Peek(); // Returns 20 (top element without removing it)
+Console.WriteLine(top);
+
+
+
+Queue:
+First In, First Out (FIFO) collection, meaning the first element added is the first to be removed
+It is part of the System.Collections.Generic namespace
+static void Main() {
+        // Creating a Queue of integers
+        Queue<int> queue = new Queue<int>();
+
+        // Adding elements (Enqueue)
+        queue.Enqueue(10);
+        queue.Enqueue(20);
+        queue.Enqueue(30);
+
+        // Printing Queue elements
+        Console.WriteLine("Queue Elements:");
+        foreach (int num in queue) {
+            Console.WriteLine(num);
+        }
+    }
+queue.Dequeue(); // Removes 10 (first inserted element)
+
+int front = queue.Peek(); // Returns 20 (first element without removing it)
+Console.WriteLine(front);
+
+if (queue.Count == 0) {
+    Console.WriteLine("Queue is empty.");
+}
+
+
+if (queue.Contains(20)) {
+    Console.WriteLine("20 is in the queue.");
+}
+
+==
+sort and reverse using below 
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+
+class Program {
+    static void Main() {
+        // 1️⃣ Sorting & Reversing an ArrayList (Non-Generic)
+        ArrayList arrayList = new ArrayList() { 50, 10, 30, 20, 40 };
+        arrayList.Sort();
+        Console.WriteLine("Sorted ArrayList: " + string.Join(", ", arrayList.Cast<int>()));
+        arrayList.Reverse();
+        Console.WriteLine("Reversed ArrayList: " + string.Join(", ", arrayList.Cast<int>()));
+
+        // 2️⃣ Sorting & Reversing a List<T> (Generic)
+        List<int> list = new List<int>() { 50, 10, 30, 20, 40 };
+        list.Sort();
+        Console.WriteLine("\nSorted List: " + string.Join(", ", list));
+        list.Reverse();
+        Console.WriteLine("Reversed List: " + string.Join(", ", list));
+
+        // 3️⃣ Sorting & Reversing a Dictionary<TKey, TValue>
+        Dictionary<int, string> dictionary = new Dictionary<int, string>() {
+            { 3, "Charlie" }, { 1, "Alice" }, { 2, "Bob" }
+        };
+        var sortedDict = dictionary.OrderBy(pair => pair.Key).ToDictionary(pair => pair.Key, pair => pair.Value);
+        Console.WriteLine("\nSorted Dictionary by Key:");
+        foreach (var kvp in sortedDict) {
+            Console.WriteLine($"{kvp.Key}: {kvp.Value}");
+        }
+
+        var reversedDict = sortedDict.Reverse().ToDictionary(pair => pair.Key, pair => pair.Value);
+        Console.WriteLine("Reversed Dictionary:");
+        foreach (var kvp in reversedDict) {
+            Console.WriteLine($"{kvp.Key}: {kvp.Value}");
+        }
+
+        // 4️⃣ Sorting & Reversing a Stack (LIFO)
+        Stack<int> stack = new Stack<int>(new int[] { 50, 10, 30, 20, 40 });
+        var sortedStack = new Stack<int>(stack.OrderBy(x => x));
+        Console.WriteLine("\nSorted Stack: " + string.Join(", ", sortedStack));
+        var reversedStack = new Stack<int>(sortedStack.Reverse());
+        Console.WriteLine("Reversed Stack: " + string.Join(", ", reversedStack));
+
+        // 5️⃣ Sorting & Reversing a Queue (FIFO)
+        Queue<int> queue = new Queue<int>(new int[] { 50, 10, 30, 20, 40 });
+        var sortedQueue = new Queue<int>(queue.OrderBy(x => x));
+        Console.WriteLine("\nSorted Queue: " + string.Join(", ", sortedQueue));
+        var reversedQueue = new Queue<int>(sortedQueue.Reverse());
+        Console.WriteLine("Reversed Queue: " + string.Join(", ", reversedQueue));
+    }
+}
+==
+ ArrayList
+
+Sorted using Sort().
+Reversed using Reverse().
+2️⃣ List<T>
+
+Sorted using Sort().
+Reversed using Reverse().
+3️⃣ Dictionary<TKey, TValue>
+
+Sorted using OrderBy(pair => pair.Key).
+Reversed using Reverse().
+4️⃣ Stack<T> (LIFO)
+
+Converted to an ordered Stack<int>(stack.OrderBy(x => x)).
+Reversed using Stack<int>(sortedStack.Reverse()).
+5️⃣ Queue<T> (FIFO)
+
+Sorted using Queue<int>(queue.OrderBy(x => x)).
+Reversed using Queue<int>(sortedQueue.Reverse()).
+
+===
+HASHABLE:
+ non-generic collection that stores key-value pairs.
+ part of the System.Collections namespace and allows keys and values of any data type.
+Key-Value Pair Storage – Data is stored in {key, value} format.
+✔ Allows Mixed Data Types – Keys and values can be of different types.
+✔ Unique Keys – Duplicate keys are not allowed.
+✔ Unordered Collection – Items are stored based on hash codes, so order is not guaranteed.
+✔ Uses Hashing – It computes a hash for keys for faster lookups.
+static void Main() {
+        Hashtable students = new Hashtable(); 
+
+        // Adding key-value pairs
+        students.Add(1, "Alice");
+        students.Add(2, "Bob");
+        students.Add(3, "Charlie");
+
+        // Display Hashtable elements
+        foreach (DictionaryEntry entry in students) {
+            Console.WriteLine($"Key: {entry.Key}, Value: {entry.Value}");
+        }
+    }
+
+Hashtable vs Dictionary
+Feature	            Hashtable (System.Collections)	Dictionary (System.Collections.Generic)
+Type Safety	      No, stores object types           ❌	Yes, enforces type safety ✅
+Performance	         Slower ❌	                     Faster ✅
+Generic Support	             No ❌	                      Yes ✅
+Key Uniqueness	      Keys must be unique ✅	          Keys must be unique ✅

@@ -1,0 +1,14 @@
+E:\CAPGEMINI PREP\Programs\fact\bin\Debug\net9.0\fact.exe
+E:\CAPGEMINI PREP\Programs\fact\bin\Debug\net9.0\fact.deps.json
+E:\CAPGEMINI PREP\Programs\fact\bin\Debug\net9.0\fact.runtimeconfig.json
+E:\CAPGEMINI PREP\Programs\fact\bin\Debug\net9.0\fact.dll
+E:\CAPGEMINI PREP\Programs\fact\bin\Debug\net9.0\fact.pdb
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\fact.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\fact.AssemblyInfoInputs.cache
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\fact.AssemblyInfo.cs
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\fact.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\fact.dll
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\refint\fact.dll
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\fact.pdb
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\fact.genruntimeconfig.cache
+E:\CAPGEMINI PREP\Programs\fact\obj\Debug\net9.0\ref\fact.dll

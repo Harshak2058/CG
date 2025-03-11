@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\BankAssignmentRashmi\bin\Debug\net9.0\BankAssignmentRashmi.exe
+e:\CAPGEMINI PREP\BankAssignmentRashmi\bin\Debug\net9.0\BankAssignmentRashmi.deps.json
+e:\CAPGEMINI PREP\BankAssignmentRashmi\bin\Debug\net9.0\BankAssignmentRashmi.runtimeconfig.json
+e:\CAPGEMINI PREP\BankAssignmentRashmi\bin\Debug\net9.0\BankAssignmentRashmi.dll
+e:\CAPGEMINI PREP\BankAssignmentRashmi\bin\Debug\net9.0\BankAssignmentRashmi.pdb
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\BankAssignmentRashmi.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\BankAssignmentRashmi.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\BankAssignmentRashmi.AssemblyInfo.cs
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\BankAssignmentRashmi.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\BankAssignmentRashmi.dll
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\refint\BankAssignmentRashmi.dll
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\BankAssignmentRashmi.pdb
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\BankAssignmentRashmi.genruntimeconfig.cache
+e:\CAPGEMINI PREP\BankAssignmentRashmi\obj\Debug\net9.0\ref\BankAssignmentRashmi.dll

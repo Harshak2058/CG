@@ -1,0 +1,344 @@
+As per Sam's instructions, John has also started working as a freelancer and got a project from a mobile shop. The project requires John to manage mobile details, such as model, brand, and price, and to group the mobiles by their brand. The application will help the company manage their mobile inventory more efficiently, allowing them to keep track of their stock and prices accurately.
+Help him create an application that meets the requirements by using your C# skills.
+ 
+Functionalities: 
+ 
+In class Program,
+public static SortedDictionary<int, Mobile> mobileDetails  - this sorted dictionary is already provided.
+In class Mobile, implement the below properties.
+Data Type
+	
+Property Name
+
+
+string
+	
+Model
+
+
+string
+	
+Brand
+
+
+int
+	
+Price
+ 
+ 
+In class MobileUtility, implement the below methods.
+ 
+Method
+	
+Description
+
+
+public void AddMobileDetails(string model, string brand, int price)
+	
+This method is used to add the mobile details, such as model, brand and price passed as an argument to the mobileDetails dictionary.  
+The key for the dictionary is set to be one more than the current number of items in the dictionary.
+Now the current number of items in the dictionary is 0.
+
+
+public SortedDictionary<string, List<Mobile>> GroupMobilesByBrand()
+	
+This method is used to group the mobiles by their brand, add them to the dictionary, and return them.
+ 
+ 
+ 
+ 
+In Program class - Main method,
+1.    Get the values from the user.
+2.    Call the methods accordingly and display the result as per the Sample Output.     
+ 
+Note:
+Keep the methods and classes as public.
+Please read the method rules clearly.
+Do not use Environment.Exit() to terminate the program.
+Do not change the given code template.
+ 
+Summary : 
+ 
+Through working on this application, he has learned about the generic collection Sorted Dictionary class in C#.
+Sorted Dictionary is a generic collection class in C# that represents a collection of key/value pairs sorted by key.
+ 
+Sample Input/Output:
+1. Add Mobile Details
+2. Group Mobiles By Brand
+3. Exit
+Enter your choice
+1
+Enter the model
+Nokia 7.2
+Enter the brand
+Nokia
+Enter the price
+10000
+ 
+Mobile details added successfully
+ 
+1. Add Mobile Details
+2. Group Mobiles By Brand
+3. Exit
+Enter your choice
+1
+Enter the model
+J7 nxt
+Enter the brand
+Samsung
+Enter the price
+11000
+ 
+Mobile details added successfully
+ 
+ 
+1. Add Mobile Details
+2. Group Mobiles By Brand
+3. Exit
+Enter your choice
+1
+Enter the model
+Sony Xperia Pro
+Enter the brand
+Sony
+Enter the price
+25000
+ 
+Mobile details added successfully
+ 
+1. Add Mobile Details
+2. Group Mobiles By Brand
+3. Exit
+Enter your choice
+1
+Enter the model
+Sony Xperia 1
+Enter the brand
+Sony
+Enter the price
+20000
+ 
+Mobile details added successfully
+ 
+1. Add Mobile Details
+2. Group Mobiles By Brand
+3. Exit
+Enter your choice
+1
+Enter the model
+Samsung Note 4
+Enter the brand
+Samsung
+ 
+Enter the price
+14000
+Mobile details added successfully
+ 
+1. Add Mobile Details
+2. Group Mobiles By Brand
+3. Exit
+Enter your choice
+2
+ 
+Nokia
+
+
+Nokia 7.2
+ 
+ 
+Samsung
+
+
+J7 nxt
+Samsung Note 4
+ 
+ 
+Sony
+
+
+Sony Xperia Pro
+Sony Xperia 1
+ 
+1. Add Mobile Details
+2. Group Mobiles By Brand
+3. Exit
+Enter your choice
+3
+Thank you
+===============================================
+The trainer tasked with developing a new application for a bank that would be able to calculate interest rates for various account types, including savings and checking accounts. After thoroughly discussing the project requirements with the bank, he decided that utilizing the interface concept would be the best approach to developing an application that could accurately calculate interest rates based on each account type. He then delegated the implementation of the application to Sam and John.
+Help them to complete the task using your C# coding skills.
+ 
+ 
+Functionalities:
+ 
+Create an interface IAccount, and implement the below-given properties and declare the method. 
+   Data Type
+	
+   Property Name
+
+
+  string
+	
+  AccountNumber
+
+
+  double
+	
+  Balance
+
+
+  double
+	
+  InterestRate
+  
+ 
+   Method
+	
+   Description
+
+
+double CalculateInterest()
+	
+This method is used to calculate the interest based on the account type and return it.
+ 
+ 
+The class SavingsAccount needs to implement the interface IAccount.
+ 
+ 
+ 
+   Method
+	
+    Description
+
+
+public double CalculateInterest()
+	
+This method is used to calculate the interest of the Savings Account and return it.
+
+If the balance is less than 1000, then deduct 0.1% of the balance as a penalty from the interest earned.
+Calculate the interest based on the below-given formula.
+ 
+ 
+The class CheckingAccount needs to implement the interface IAccount.
+   Method
+	
+   Description
+
+
+public double CalculateInterest()
+	
+This method is used to calculate the interest of the Checking Account and return it.
+
+ 
+If the balance is less than 5000, then deduct 0.5% of the balance as a penalty from the interest earned.
+Calculate the interest based on the below-given formula.
+ 
+ 
+ 
+Formula : 
+Interest  =   Balance  *  InterestRate  /  100
+
+ 
+ 
+In Program class - Main method, 
+1.    Get the values from the user as per the Sample Input.
+2.    Call the methods accordingly and display the result as per the Sample Output.
+ 
+Note:
+Keep the properties, methods and classes as public.
+Please read the method rules clearly.
+Do not use Environment.Exit() to terminate the program.
+Do not change the given code template. 
+ 
+ 
+Summary : 
+
+Through working on this project, they have learned about interface in C#.
+ 
+An interface in C# is a contract that specifies a set of methods and properties that a class must implement, providing a common structure for different classes to achieve similar functionality.
+ 
+ 
+Sample Input 1:
+1. Savings account
+2. Checking account
+
+Choose the option
+
+1
+Enter the account number
+CUB101
+Enter the balance amount
+
+2000
+ 
+Enter the interest rate
+5
+ 
+Sample Output 1:
+Interest amount is 100
+ 
+ 
+Sample Input 2:
+1. Savings account
+2. Checking account
+
+Choose the option
+
+1
+Enter the account number
+CUB101
+Enter the balance amount
+
+500
+ 
+Enter the interest rate
+5
+ 
+Sample Output 2:
+Interest amount is 24.5
+ 
+ 
+ 
+Sample Input 3:
+ 
+1. Savings account
+2. Checking account
+
+Choose the option
+
+2
+Enter the account number
+HFB113
+Enter the balance amount
+
+8000
+ 
+Enter the interest rate
+12
+ 
+ 
+Sample Output 3:
+Interest amount is 960
+ 
+ 
+Sample Input 4:
+ 
+1. Savings account
+2. Checking account
+
+Choose the option
+
+2
+Enter the account number
+HFB113
+Enter the balance amount
+
+3500
+ 
+Enter the interest rate
+12
+ 
+ 
+Sample Output 4:
+Interest amount is 402.5

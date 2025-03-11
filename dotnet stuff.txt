@@ -1,0 +1,373 @@
+Product Class
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+ 
+namespace EmployeeClass
+{
+    public class Product
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+ 
+        public string Type { get; set; }
+ 
+ 
+        public Product(int Id, string Name, string Type)
+        {
+            this.Id = Id;
+            this.Name = Name;
+            this.Type = Type;
+        }
+ 
+ 
+        public void DisplayDetails()
+        {
+            Console.WriteLine($"{this.Id} : {this.Name} : {this.Type}");
+        }
+    }
+}
+ 
+Program Class
+using EmployeeClass;
+ 
+public class Program
+{
+ 
+    public static void Main(string[] args)
+    {
+ 
+        Console.WriteLine("Enter the ID of Product");
+        int id = Convert.ToInt32(Console.ReadLine());
+ 
+        Console.WriteLine("Enter the Product Name");
+        string name = Console.ReadLine();
+ 
+        Console.WriteLine("Enter the Product Type");
+        string department = Console.ReadLine();
+ 
+ 
+        Product pd = new Product(id, name, department);
+ 
+        pd.DisplayDetails();
+    }
+}
+ 
+using System;
+ 
+public class Employee
+    {
+        public int Id {get;set;}
+        public string Name {get;set;}
+ 
+        public string Department {get;set;}
+ 
+ 
+        public Employee(int Id, string Name, string Department)
+        {
+            this.Id = Id;
+            this.Name = Name;
+            this.Department = Department;
+        }
+ 
+ 
+        public void DisplayDetails(){
+            Console.WriteLine($"{this.Id} : {this.Name} : {this.Department}");
+        }
+}
+ 
+public class Program {
+ 
+    public static void Main(string[] args){
+ 
+        Console.WriteLine("Enter the ID of Employee");
+        int id = Convert.ToInt32(Console.ReadLine());
+ 
+        Console.WriteLine("Enter the Employee Name");
+        string name = Console.ReadLine();
+ 
+        Console.WriteLine("Enter the Employee Department");
+        string department = Console.ReadLine();
+ 
+ 
+        Employee emp = new Employee(id,name,department);
+ 
+        emp.DisplayDetails();
+    }
+}
+ 
+ 
+ 
+ 
+ 
+ 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+ 
+namespace ProductDemo
+{
+    public class Product
+    {
+        public int productID{get; set;};
+        public string productName{get; set;};
+        public string productCategory{get; set;};
+ 
+        Product(int productID,string productName,string productCategory){
+            this.productID = productID;
+            this.productName = productName;
+            this.productCategory = productCategory;
+        }
+        public void DisplayInfo(){
+            Console.WriteLine($"{this.productID} has {this.productName} and belongs to {this.productCategory}");
+        }
+    }
+}
+ 
+using namespace ProductDemo
+{
+    public class Program{
+        public static void Main(string[] args){
+            Console.WriteLine("Enter the ID of Product");
+            int id = Convert.ToInt32(Console.ReadLine());
+ 
+            Console.WriteLine("Enter the Product Name");
+            string name = Console.ReadLine();
+ 
+            Console.WriteLine("Enter the Product Department");
+            string department = Console.ReadLine();
+            Employee prd = new Employee(1,"Keyboard","Peripherals");
+            Employee prd = new Employee(2,"Mouse","Peripherals");
+            Employee prd = new Employee(3,"Webcam","Peripherals");
+            prd.DisplayInfo();
+        }
+    }
+}
+ 
+using System;
+
+using System.Collections.Generic;
+
+using System.Linq;
+
+using System.Text;
+
+using System.Threading.Tasks;
+ 
+namespace ConsoleApp1
+
+{
+
+    internal class Product
+
+    {
+
+        public int ProductId { get; set; }
+
+        public string ProductName { get; set; }
+
+        public string Department { get; set; }
+ 
+        
+
+        public Product(int pId, string pName, string department)
+
+        {
+
+            ProductId = pId;
+
+            ProductName = pName;
+
+            Department = department;
+
+        }
+ 
+       
+
+        public void DisplayEmployeeDetails()
+
+        {
+
+            Console.WriteLine($"Employee ID: {ProductId}");
+
+            Console.WriteLine($"Employee Name: {ProductName}");
+
+            Console.WriteLine($"Department: {Department}");
+
+        }
+
+    }
+ 
+    class Program
+
+    {
+
+        static void Main()
+
+        {
+
+            Product emp = new Product(101, "Ai Guide", "CapGemini");
+ 
+            emp.DisplayEmployeeDetails();
+
+        }
+ 
+    }
+
+}
+
+ 
+using ProductOOP;
+ 
+public class Program {
+ 
+    public static void Main(string[] args){
+ 
+        Console.WriteLine("Enter the ID of Employee");
+        int id = Convert.ToInt32(Console.ReadLine());
+ 
+        Console.WriteLine("Enter the Employee Name");
+        string name = Console.ReadLine();
+ 
+        Console.WriteLine("Enter the Employee Department");
+        string department = Console.ReadLine();
+ 
+ 
+        Product emp = new Product(id,name,department);
+ 
+        emp.DisplayDetails();
+    }
+}
+ 
+ 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+ 
+namespace ProductOOP
+{
+    public class Product
+    {
+        public int Id {get;set;}
+        public string Name {get;set;}
+ 
+        public string Department {get;set;}
+ 
+ 
+        public Product(int Id, string Name, string Department)
+        {
+            this.Id = Id;
+            this.Name = Name;
+            this.Department = Department;
+        }
+ 
+ 
+        public void DisplayDetails(){
+            Console.WriteLine($"{this.Id} : {this.Name} : {this.Department}");
+        }
+    }
+}
+ 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+ 
+namespace csharp
+{
+    public class Employee
+    {
+        public int Id {get;set;}
+        public string Name {get;set;}
+ 
+        public string Department {get;set;}
+ 
+ 
+        public Employee(int Id, string Name, string Department)
+        {
+            this.Id = Id;
+            this.Name = Name;
+            this.Department = Department;
+        }
+ 
+ 
+        public void DisplayDetails(){
+            Console.WriteLine($"{this.Id} : {this.Name} : {this.Department}");
+        }
+    }
+}using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+ 
+namespace csharp
+{
+    public class Employee
+    {
+        public int Id {get;set;}
+        public string Name {get;set;}
+ 
+        public string Department {get;set;}
+ 
+ 
+        public Employee(int Id, string Name, string Department)
+        {
+            this.Id = Id;
+            this.Name = Name;
+            this.Department = Department;
+        }
+ 
+ 
+        public void DisplayDetails(){
+            Console.WriteLine($"{this.Id} : {this.Name} : {this.Department}");
+        }
+    }
+}
+ 
+ 
+ 
+ 
+ 
+Screenshot 2025-01-22 at 12.02.07 PM.png
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Screenshot (199).png
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2025-01-22 (8).png
+==============
+dotnet new console --name AbstractClass
+dotnet new console --Constructor
+dotnet new console --Litwarelib
+
+dotnet run --project "path of csproj"
+
+E:\CAPGEMINI PREP\String123
+
+
+ E:\CAPGEMINI PREP\AbstractClass\AbstractClass.csproj
+ E:\CAPGEMINI PREP\Programs\fact\fact.csproj

@@ -1,0 +1,32 @@
+core jsva
+jdbc, servlets, jsp
+spring f.w
+spring boot dundamentals
+spring data jpa using hibernate
+
+now...
+end -end java project defvelopment using spring boot we can do
+=======================================
+java specialization:::
+java web services
+microservicdes
+java messageing sevices
+spring data REST
+spring cloud fundamentals
+
+=============
+junit
+mockito
+maven
+java design patterns
+================
+javas script fundament;s (free)
+adv and objcet oriented javasriprt (free)
+type script
+react js/angular
+===================
+devops and aws for java micro service developer:
+git,maven/gradle,aws,docker,kubernetes
+=============================
+spring security fundamentals
+nodeJs

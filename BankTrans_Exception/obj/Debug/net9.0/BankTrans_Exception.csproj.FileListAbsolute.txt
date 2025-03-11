@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\BankTrans_Exception.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\BankTrans_Exception.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\BankTrans_Exception.AssemblyInfo.cs
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\BankTrans_Exception.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\BankTrans_Exception\bin\Debug\net9.0\BankTrans_Exception.exe
+e:\CAPGEMINI PREP\BankTrans_Exception\bin\Debug\net9.0\BankTrans_Exception.deps.json
+e:\CAPGEMINI PREP\BankTrans_Exception\bin\Debug\net9.0\BankTrans_Exception.runtimeconfig.json
+e:\CAPGEMINI PREP\BankTrans_Exception\bin\Debug\net9.0\BankTrans_Exception.dll
+e:\CAPGEMINI PREP\BankTrans_Exception\bin\Debug\net9.0\BankTrans_Exception.pdb
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\BankTrans_Exception.dll
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\refint\BankTrans_Exception.dll
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\BankTrans_Exception.pdb
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\BankTrans_Exception.genruntimeconfig.cache
+e:\CAPGEMINI PREP\BankTrans_Exception\obj\Debug\net9.0\ref\BankTrans_Exception.dll

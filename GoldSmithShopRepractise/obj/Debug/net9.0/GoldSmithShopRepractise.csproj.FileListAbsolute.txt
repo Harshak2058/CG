@@ -1,0 +1,14 @@
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\GoldSmithShopRepractise.GeneratedMSBuildEditorConfig.editorconfig
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\GoldSmithShopRepractise.AssemblyInfoInputs.cache
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\GoldSmithShopRepractise.AssemblyInfo.cs
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\GoldSmithShopRepractise.csproj.CoreCompileInputs.cache
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\bin\Debug\net9.0\GoldSmithShopRepractise.exe
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\bin\Debug\net9.0\GoldSmithShopRepractise.deps.json
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\bin\Debug\net9.0\GoldSmithShopRepractise.runtimeconfig.json
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\bin\Debug\net9.0\GoldSmithShopRepractise.dll
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\bin\Debug\net9.0\GoldSmithShopRepractise.pdb
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\GoldSmithShopRepractise.dll
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\refint\GoldSmithShopRepractise.dll
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\GoldSmithShopRepractise.pdb
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\GoldSmithShopRepractise.genruntimeconfig.cache
+e:\CAPGEMINI PREP\GoldSmithShopRepractise\obj\Debug\net9.0\ref\GoldSmithShopRepractise.dll
