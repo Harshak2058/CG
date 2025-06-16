@@ -1,0 +1,16 @@
+sample understanding of AIS
+Client/API Call
+     ↓
+API Management (APIM)
+     ↓
+Azure Function (Validate Order)
+     ↓
+Storage Account (Save Order as Blob)
+     ↓
+Service Bus Queue (Send Order for Processing)
+     ↓
+Function App (Triggered by Service Bus to Process Order)
+     ↓
+Event Grid (Publishes “OrderProcessed” Event)
+     ↓
+Logic App (Subscribes to Event → Send Email/Update DB)
